@@ -1,10 +1,9 @@
-[![MasterHead](https://pbs.twimg.com/profile_banners/1335702189399019524/1665675197/600x200)](https://rishavchanda.io)
+[![MasterHead]([https://pbs.twimg.com/profile_banners/1335702189399019524/1665675197/600x200](https://cloudinary.com/blog/wp-content/uploads/sites/12/2022/02/Animations_with_HTML5_2000x1100_v2-1.gif))](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Iyanuoluwa</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-<p align="left"> <h1 align="center">Hi 👋, I'm Iyanuoluwa</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyanu1396&label=Profile%20views&color=0e75b6&style=flat" alt="iyanu1396" /> </p>
 

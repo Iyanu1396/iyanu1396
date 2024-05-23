@@ -24,7 +24,7 @@
 
 ### :woman_technologist: About Me :
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
 
 - :seedling: Exploring the react ecosystem.
 
@@ -47,8 +47,6 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
   ---
 
-### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyanu1396&layout=compact&theme=vision-friendly-dark)](https://github.com/iyanu1396/github-readme-stats)
 
 </div>

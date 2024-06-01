@@ -30,7 +30,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I build personal projects and write tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-iyanuoluwa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atijosan-iyanuoluwatw)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-iyanuoluwa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atijosan-iyanuoluwa-827049246/)
 - ---
 
 ### :hammer_and_wrench: Languages and Tools I Work With:

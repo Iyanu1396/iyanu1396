@@ -1,52 +1,49 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/atijosan-iyanuoluwa-827049246/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://iyanucodes.hashnode.dev/">
-    <img src="https://img.shields.io/badge/Hashnode-white?style=for-the-badge&logo=hashnode&logoColor=blue" alt="Hashnode Badge"/>
-  </a>
-  <a href="https://twitter.com/iyanu_codes">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-  <img src="https://komarev.com/ghpvc/?username=iyanu1396&style=flat-square&color=blue" alt=""/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+# 👋 Hey there! I'm Iyanuoluwa
+
+## 🚀 Full Stack Engineer | Javascript Enthusiast
+
+![Profile Views](https://komarev.com/ghpvc/?username=iyanu1396&style=flat-square)
+
+### 🌐 About Me
+Passionate full-stack engineer specializing in modern web technologies. I transform complex problems into elegant, scalable solutions.
+
+### 💻 Tech Stack
+
+#### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### Mobile
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iyanu1396&show_icons=true&theme=radical)
+
+### 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyanu1396&layout=compact&theme=radical)
+
+
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atijosan-iyanuoluwa-827049246/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iyanu_codes)
+[![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://iyanu-codes.vercel.app)
+
+
+
 ---
-
-### :woman_technologist: About Me :
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
-
-- :seedling: Exploring the react ecosystem.
-
-- :zap: In my free time, I build personal projects and write tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-iyanuoluwa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atijosan-iyanuoluwa-827049246/)
-- ---
-
-### :hammer_and_wrench: Languages and Tools I Work With:
-<div>
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss " width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub " width="40" height="40"/>&nbsp;
-
-  ---
-
-
-
-</div>
+**💡 Always learning, always growing**

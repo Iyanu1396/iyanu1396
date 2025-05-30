@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iyanu1396&label=Profile%20views&color=0e75b6&style=flat" alt="iyanu1396" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iyanu1396" alt="iyanu1396" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/iyanu_codes" target="blank"><img src="https://img.shields.io/twitter/follow/iyanu_codes?logo=twitter&style=for-the-badge" alt="iyanu_codes" /></a> </p>
 
 - 🔭 I’m currently working on [StatsLists: Explore your Spotify stats and craft personalized playlists.](https://stats-lists.vercel.app/)
@@ -15,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://iyanucodes.hashnode.dev/](https://iyanucodes.hashnode.dev/)
 
-- 💬 Ask me about **react,javascript,nodejs,building scallable application**
+- 💬 Ask me about **react,javascript,nodejs,building scallab**
 
 - 📫 How to reach me **iyanu1396@gmail.com**
 

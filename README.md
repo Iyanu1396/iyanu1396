@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://iyanucodes.hashnode.dev/](https://iyanucodes.hashnode.dev/)
 
-- 💬 Ask me about **react,javascript,nodejs,building scallab**
+- 💬 Ask me about **react,javascript,nodejs,building scallable application**
 
 - 📫 How to reach me **iyanu1396@gmail.com**
 
